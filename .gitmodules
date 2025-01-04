@@ -1,0 +1,12 @@
+[submodule "Welden-Asteroids"]
+	path = Welden-Asteroids
+	url = https://github.com/GameDevelopment-F24/Welden-Asteroids.git
+[submodule "Welden-Blackjack"]
+	path = Welden-Blackjack
+	url = https://github.com/GameDevelopment-F24/Welden-Blackjack.git
+[submodule "Welden-Sokoban"]
+	path = Welden-Sokoban
+	url = https://github.com/GameDevelopment-F24/Welden-Sokoban.git
+[submodule "CVA"]
+	path = CVA
+	url = https://github.com/JorgeFLarach/CVA.git
